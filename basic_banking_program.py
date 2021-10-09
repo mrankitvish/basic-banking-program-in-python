@@ -25,7 +25,7 @@ class Account:
                 print('')
                 break
 
-#Initializing object variables 
+#Initializing instance variables 
     def __init__(self,fname,lname):
         print("----------------------------------------")
         def accNumber():
